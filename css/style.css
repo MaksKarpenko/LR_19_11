@@ -1,0 +1,26 @@
+html {
+    background-color: #bdd6eb;
+}
+
+body {
+    background-color: #1d8b9e;
+    width: 600px;
+    border: 2px solid #083047;
+    padding: 2px 35px 30px 30px;
+    margin: 0 auto;
+}
+
+h1{
+    color: #031e96;
+}
+
+img{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 20px 20px 30px;
+   
+
+}
+p{
+    color:aliceblue;
+}
